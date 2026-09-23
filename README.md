@@ -108,6 +108,6 @@ This project is licensed under the [MIT License](./LICENSE).
 ## Author
 
 **Hasan Srour**
-Freelance data & document specialist · Electrical & Electronic Circuits student, Al-Aqsa University
+Freelance data & document specialist · AI Engineer student, Al-Aqsa University
 
 - GitHub: [@EngHasanSrour](https://github.com/EngHasanSrour)
