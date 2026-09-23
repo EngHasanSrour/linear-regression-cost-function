@@ -1,7 +1,7 @@
-# Linear Regression — Cost Function
+# Linear Regression - Cost Function
 
 Implementation and visualization of the **Mean Squared Error (MSE) cost function** for
-Linear Regression, built from scratch in Python using **NumPy** and **Matplotlib** —
+Linear Regression, built from scratch in Python using **NumPy** and **Matplotlib**
 no machine-learning frameworks involved.
 
 The goal is to build intuition for how the cost function `J(w, b)` measures the fit
